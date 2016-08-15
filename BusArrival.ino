@@ -1,6 +1,7 @@
 /*
   Author : Srijith
   Last Modified : 16-Aug-2016
+  More Info : http://www.srisoftstudios.com/arduino/catchingthebusfromthecouch
 
   LTA Bus Arrival
   This sketch will connect to LTA website and invoke REST API to fetch bus arrival every 60 seconds
